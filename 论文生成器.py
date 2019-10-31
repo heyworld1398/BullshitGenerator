@@ -4,7 +4,7 @@
 import os, re
 import random
 
-xx = "学生会退会"
+xx = "论英文还能流行多久"
 
 text = [ 
     "现在, 解决x的问题, 是非常非常重要的. 所以, ",
